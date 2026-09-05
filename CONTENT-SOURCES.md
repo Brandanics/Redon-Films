@@ -44,3 +44,9 @@ https://www.thehalalgang.com/ informed the black, warm white and red palette. La
 ## Contact functionality
 
 The project brief form prepares text locally. Visitors open the prepared brief in email or WhatsApp and send it themselves, or copy/download a text file. The site does not claim to have sent a message or store enquiry data on a server.
+
+## Team and responsive update
+
+The 16 names and roles are transcribed from https://redonfilms.com/team/ on 5 September 2026. Fifteen unique portraits are downloaded from that page and optimised locally. The old page duplicates Areeba Shabbir’s portrait under Saad Bin Saeed. Saad is represented by an initials card pending a verified portrait. No unverified biography or social profile was added.
+
+Mobile background video is a silent 720px derivative. The complete reel retains sound and loads when opened. Media pauses when out of view or the tab is hidden; reduced motion and data saving preferences are respected. Image source sets avoid unnecessary large downloads. The responsive scale extends through 4K and 8K CSS viewports; physical television/browser verification remains necessary.

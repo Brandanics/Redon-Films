@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="case-error"><p className="eyebrow">REDON FILMS / OUT OF FRAME</p><h1>404.</h1><h2>This scene<br/><em>isn’t here.</em></h2><p>The story you’re looking for may have moved. There’s plenty more to discover.</p><a href="/" className="text-link">Back to the opening scene <span>↗</span></a></main>}

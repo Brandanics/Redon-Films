@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 export const metadata: Metadata = {
- metadataBase:new URL('https://redon-films-studio.mauve-park-2277.chatgpt.site'),
+ metadataBase:new URL('https://redon-films-studio.bashimalik1234.chatgpt.site'),
  title:'Redon Films | We Make You Feel',
  description:'An independent creative production studio in Pakistan. Documentary filmmaking, brand films, design, events and media advocacy. Over 20 years of storytelling.',
  icons:{icon:'/favicon.png',apple:'/favicon.png'},

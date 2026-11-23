@@ -28,13 +28,6 @@ export const team = [
     "initials": "MG"
   },
   {
-    "name": "Waqar A. Mahar",
-    "role": "Creative Director",
-    "slug": "waqar-a-mahar",
-    "source": "https://redonfilms.com/wp-content/uploads/2023/03/Waqar.jpg",
-    "initials": "WA"
-  },
-  {
     "name": "Saad Bin Saeed",
     "role": "Creative Director",
     "slug": "saad-bin-saeed",
@@ -47,13 +40,6 @@ export const team = [
     "slug": "jawad-h-shah",
     "source": "https://redonfilms.com/wp-content/uploads/2026/04/Jawad.jpg",
     "initials": "JH"
-  },
-  {
-    "name": "Ufaz Shahzad",
-    "role": "Director & Producer",
-    "slug": "ufaz-shahzad",
-    "source": "https://redonfilms.com/wp-content/uploads/2026/04/Ufaz-1.jpg",
-    "initials": "US"
   },
   {
     "name": "Rayyan Bin Asim",
@@ -70,13 +56,6 @@ export const team = [
     "initials": "FR"
   },
   {
-    "name": "Mah Noor Zain",
-    "role": "Associate Director/Producer",
-    "slug": "mah-noor-zain",
-    "source": "https://redonfilms.com/wp-content/uploads/2026/04/Mahnoor.jpg",
-    "initials": "MN"
-  },
-  {
     "name": "Areeba Shabbir",
     "role": "Event Manager",
     "slug": "areeba-shabbir",
@@ -84,25 +63,11 @@ export const team = [
     "initials": "AS"
   },
   {
-    "name": "Simon Munir",
-    "role": "Associate Director/Producer",
-    "slug": "simon-munir",
-    "source": "https://redonfilms.com/wp-content/uploads/2026/04/Simon.jpg",
-    "initials": "SM"
-  },
-  {
     "name": "Mehmood Rehman",
     "role": "Office Supervisor",
     "slug": "mehmood-rehman",
     "source": "https://redonfilms.com/wp-content/uploads/2026/04/Mehmood.jpg",
     "initials": "MR"
-  },
-  {
-    "name": "Haroon Ul Nasr",
-    "role": "Associate Director/Producer",
-    "slug": "haroon-ul-nasr",
-    "source": "https://redonfilms.com/wp-content/uploads/2026/04/Haroon.jpg",
-    "initials": "HU"
   },
   {
     "name": "Mahrukh Munir",

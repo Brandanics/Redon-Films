@@ -39,11 +39,6 @@ export const imageAssets: Record<string, {srcSet:string; width:number; height:nu
     "width": 894,
     "height": 894
   },
-  "/images/team/mah-noor-zain.webp": {
-    "srcSet": "/images/team/mah-noor-zain-320.webp 320w, /images/team/mah-noor-zain-640.webp 640w, /images/team/mah-noor-zain.webp 894w",
-    "width": 894,
-    "height": 894
-  },
   "/images/team/mehmood-rehman.webp": {
     "srcSet": "/images/team/mehmood-rehman-320.webp 320w, /images/team/mehmood-rehman-640.webp 640w, /images/team/mehmood-rehman.webp 894w",
     "width": 894,
@@ -74,16 +69,6 @@ export const imageAssets: Record<string, {srcSet:string; width:number; height:nu
     "width": 894,
     "height": 894
   },
-  "/images/team/haroon-ul-nasr.webp": {
-    "srcSet": "/images/team/haroon-ul-nasr-320.webp 320w, /images/team/haroon-ul-nasr-640.webp 640w, /images/team/haroon-ul-nasr.webp 894w",
-    "width": 894,
-    "height": 894
-  },
-  "/images/team/ufaz-shahzad.webp": {
-    "srcSet": "/images/team/ufaz-shahzad-320.webp 320w, /images/team/ufaz-shahzad-640.webp 640w, /images/team/ufaz-shahzad.webp 894w",
-    "width": 894,
-    "height": 894
-  },
   "/images/team/faisal-r-khan.webp": {
     "srcSet": "/images/team/faisal-r-khan-320.webp 320w, /images/team/faisal-r-khan-640.webp 640w, /images/team/faisal-r-khan.webp 894w",
     "width": 894,
@@ -94,19 +79,29 @@ export const imageAssets: Record<string, {srcSet:string; width:number; height:nu
     "width": 894,
     "height": 894
   },
-  "/images/team/simon-munir.webp": {
-    "srcSet": "/images/team/simon-munir-320.webp 320w, /images/team/simon-munir-640.webp 640w, /images/team/simon-munir.webp 894w",
-    "width": 894,
-    "height": 894
-  },
-  "/images/team/waqar-a-mahar.webp": {
-    "srcSet": "/images/team/waqar-a-mahar-320.webp 320w, /images/team/waqar-a-mahar.webp 419w",
-    "width": 419,
-    "height": 419
-  },
   "/images/team/imran-k-khattak.webp": {
     "srcSet": "/images/team/imran-k-khattak-320.webp 320w, /images/team/imran-k-khattak-640.webp 640w, /images/team/imran-k-khattak.webp 894w",
     "width": 894,
     "height": 894
+  },
+  "/images/lasoona.webp": {
+    "srcSet": "/images/lasoona-640.webp 640w, /images/lasoona.webp 1280w",
+    "width": 1280,
+    "height": 720
+  },
+  "/images/pta-annual-report.webp": {
+    "srcSet": "/images/pta-annual-report-640.webp 640w, /images/pta-annual-report.webp 1280w",
+    "width": 1280,
+    "height": 720
+  },
+  "/images/lasbela.webp": {
+    "srcSet": "/images/lasbela-640.webp 640w, /images/lasbela.webp 1280w",
+    "width": 1280,
+    "height": 720
+  },
+  "/images/jhuggiwala.webp": {
+    "srcSet": "/images/jhuggiwala-640.webp 640w, /images/jhuggiwala.webp 1280w",
+    "width": 1280,
+    "height": 720
   }
 };
